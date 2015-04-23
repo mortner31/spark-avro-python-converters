@@ -1,10 +1,6 @@
 import cPickle as pickle
 import os
 
-# import matplotlib.pyplot as plt
-# import matplotlib.cm as cm
-import sys
-import numpy as np
 from pyspark import SparkConf, SparkContext, StorageLevel
 
 from pprint import pprint

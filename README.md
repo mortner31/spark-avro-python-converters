@@ -17,7 +17,7 @@ http://stackoverflow.com/questions/29619081/python-spark-error-writing-to-avro
 To build : 
 
 ```
-mvn -DskipTests package
+mvn package
 ```
 
 To check what is insided compiled packages 
