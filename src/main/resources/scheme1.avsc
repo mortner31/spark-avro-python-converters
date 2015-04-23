@@ -1,0 +1,14 @@
+{
+	"namespace": "irt.avro",
+	"type": "record",
+	"name": "generic",
+	"fields" : [
+                 {"name": "name1","type": "string"},
+                 {"name": "raw1", "type" : "bytes"},
+                 {"name": "name2","type": "string"},
+                 {"name": "raw2", "type" : "bytes"},
+                 {"name": "name3","type": "string"},
+                 {"name": "raw3", "type" : "bytes"}
+                ]
+
+} 
